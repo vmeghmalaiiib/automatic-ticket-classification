@@ -1,0 +1,8 @@
+# Ignore everything by default
+*
+
+# Keep git metadata and this ignore file
+!.gitignore
+
+# Track only the assignment notebook
+!Automatic_Ticket_Classification_Assignment_v1.ipynb
